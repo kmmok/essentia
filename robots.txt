@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: 
-Sitemap: /sitemap.xml
+Sitemap: https://kmmok.github.io/essentia/sitemap.xml
