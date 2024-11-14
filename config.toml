@@ -4,6 +4,7 @@ title = "Essentia"
 enableRobotsTXT = true
 paginate = "9"
 summaryLength = 20
+canonifyURLs = true
 
 
 #################### default parameters ################################
